@@ -8,7 +8,7 @@
 
 * apt-get install git 
 
-* git clone https://github.com/AngelSecurityTeam/RevoltShing
+* git clone https://github.com/Transmetal/RevoltShing
 
 * cd RevoltShing
 
@@ -22,7 +22,7 @@
 
 * pkg install git
 
-* git clone  https://github.com/AngelSecurityTeam/RevoltShing
+* git clone https://github.com/Transmetal/RevoltShing
 
 * cd RevoltShing
 
@@ -41,13 +41,3 @@
 * python3 Server.py
 
 * python3 revoltshing.py
-
-<h3> RevoltShing </h3>
-
-<img src="https://github.com/AngelSecurityTeam/RevoltShing/blob/master/rv1.png">
-
-<img src="https://github.com/AngelSecurityTeam/RevoltShing/blob/master/RV2.png">
-
-<h3> Paypal Donations: </h3>
-
-* https://www.paypal.me/AngelSecurityTeam
